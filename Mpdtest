@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1,Fox family movie
+https://cdnjkt.transvision.co.id/channel_1/4028c68572841ba301729cca1a233c0f/prod/manifest.mpd
+#EXTINF:-1,Fox sport
+https://cdnjkt.transvision.co.id/catchup/4028c6856b8d2390016b9c6a5be61ef3/prod/4028c6857baa1174017c03d859591532/manifest.mpd
+#EXTINF:-1,Golf channel
+https://cdnjkt.transvision.co.id/catchup/4028c68571b3914b01720e7ff4376d21/prod/4028c6857baa1174017c0c6253403e1e/manifest.mpd
+#EXTINF:-1,Net tv
+https://cdnjkt.transvision.co.id/catchup/4028c685758bcfff01776bc7624307ab/prod/4028c6857baa1174017bf27c8ae54aed/manifest.mpd
+#EXTINF:-1,Bandung tv
+https://cdnjkt.transvision.co.id/catchup/4028c685730a42430173224605565594/prod/4028c6857b8456f0017b876b0c2d37ce/manifest.mpd
+#EXTINF:-1,Jtv
+https://cdnjkt.transvision.co.id/catchup/4028c685730a42430173142e26ba7b17/prod/4028c6857b8456f0017b871962102cde/manifest.mpd
+#EXTINF:-1,TVRI
+https://cdnjkt.transvision.co.id/catchup/4028c68570f25e2e01716841059b3e25/prod/4028c6857baa1174017c06186af81cb4/manifest.mpd
+#EXTINF:-1,Mnc
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6ebd82f2396/prod/4028c6857b77043b017b7dd1d5e73f80/manifest.mpd
+#EXTINF:-1,Rtv
+https://cdnjkt.transvision.co.id/catchup/4028c68572841ba301729ce4a1343c17/prod/4028c6857baa1174017bc985226c0ccf/manifest.mpd
+#EXTINF:-1,Daai tv
+https://cdnjkt.transvision.co.id/catchup/4028c68572841ba301729cbde4783c06/prod/4028c6857baa1174017bfc2cab737169/manifest.mpd
+#EXTINF:-1,Kompas
+https://cdnjkt.transvision.co.id/catchup/4028c68572841ba301729ce2a0d83c16/prod/4028c6857baa1174017bed80752c38aa/manifest.mpd
+#EXTINF:-1,Berita satu
+https://cdnjkt.transvision.co.id/catchup/4028c68572841ba301729c80f0d63bfc/prod/4028c6857b8456f0017b9b7a2f2e6d33/manifest.mpd
+#EXTINF:-1,Jak tv
+https://cdnjkt.transvision.co.id/catchup/4028c68572841ba301729cd58bce3c14/prod/4028c6857baa1174017bf4652a175fcd/manifest.mpd
+#EXTINF:-1,ANTV
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6e9c5992395/prod/4028c6857baa1174017bf3aac3475a93/manifest.mpd
+#EXTINF:-1,Global
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6e8eda22394/prod/4028c6857b8456f0017b96f3eac74b06/manifest.mpd
+#EXTINF:-1,Rcti
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6e825832393/prod/4028c6857baa1174017c01033eed0814/manifest.mpd
+#EXTINF:-1,Indosiar
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6e773b02392/prod/4028c6857baa1174017bfc06b72f6fed/manifest.mpd
+#EXTINF:-1,Sctv
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6e647532391/prod/4028c6857baa1174017bf9824fe16bf1/manifest.mpd
+#EXTINF:-1,Tv one
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6df9359238f/prod/4028c6857baa1174017bf1724b5c487d/manifest.mpd
+#EXTINF:-1,Cnbc
+https://cdnjkt.transvision.co.id/catchup/4028c68565fa79ce01665868040a343f/prod/4028c6857baa1174017c0e7a58a04622/manifest.mpd
+#EXTINF:-1,CNN
+https://cdnjkt.transvision.co.id/catchup/4028c685651d7bcc01651f0e4ce10098/prod/4028c6857baa1174017bf2ce08c14ff7/manifest.mpd
+#EXTINF:-1,Metro
+https://cdnjkt.transvision.co.id/catchup/4028c6856c3db2cc016cd6e548c62390/prod/4028c6857baa1174017bc985f0ec0f3e/manifest.mpd
