@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,BEIN USEE 1
+https://cdn14jtedge.useetv.com/dass/133/beib2_dash/segment_ctvideo_cfm4s_ridp0va0br640000_cs321207465600_w1349710304_mpd/chunklist.m3u8
+
 #EXTINF:-1,Fox family movie
 https://cdnjkt.transvision.co.id/channel_1/4028c68572841ba301729cca1a233c0f/prod/manifest.mpd
 #EXTINF:-1,Fox sport
