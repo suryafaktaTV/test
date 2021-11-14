@@ -1,8 +1,7 @@
 #EXTM3U refresh="3600"
 #PLAYLIST:gpc.my.id
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lokal" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
-http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lokal" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lokal" tvg-name="donasi https://saweria.co/Suryafakta",donasi https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="Lokal",useeinfo_USEE
 https://gpc.my.id/usee/useeinfo.m3u8
@@ -116,9 +115,9 @@ https://gpc.my.id/vidio/daai-tv.m3u8
 https://gpc.my.id/usee/muitv.m3u8
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="Lokal",Fatwa TV
 https://gpc.my.id/ytlive/fatwa-tv.m3u8
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Vidio" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Vidio" tvg-name="Playlist gratis by suryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Vidio" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/Suryafakta",donasi Gopay Dana LinkAja Ovo https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tvri" group-title="Vidio",tvri
 https://gpc.my.id/vidio/tvri.m3u8
@@ -208,9 +207,9 @@ https://gpc.my.id/vidio/smithsonian.m3u8
 https://gpc.my.id/vidio/love-nature.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="citra-muslim" group-title="Vidio",citra-muslim
 https://gpc.my.id/vidio/citra-muslim.m3u8
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Useetv" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Useetv" tvg-name="Playlist gratis by BsuryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?1
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Useetv" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC",donasi Gopay Dana LinkAja Ovo https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Useetv" tvg-name="donasi Gopay Dana LinkAja Ovo https://saweria.co/Suryafakta",donasi Gopay Dana LinkAja Ovo https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?2
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo" group-title="Useetv",useeinfo
 https://gpc.my.id/usee/useeinfo.m3u8
@@ -316,9 +315,9 @@ https://gpc.my.id/usee/nhkworld.m3u8
 https://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="eljohn" group-title="Useetv",eljohn
 https://gpc.my.id/usee/eljohn.m3u8
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Kids & Knowledge" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Kids & Knowledge" tvg-name="Playlist gratis by suryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?3
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Kids & Knowledge" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Kids & Knowledge" tvg-name="donasi https://saweria.co/Suryafakta",donasi https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?4
 #EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="Hip-Hip-Hore" group-title="Kids & Knowledge",Hip-Hip-Hore
 https://gpc.my.id/vidio/hip-hip-horee.m3u8
@@ -444,9 +443,9 @@ https://gpc.my.id/usee/cgtndocumentary.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.useetv.com/proxy?playid=fag6g7OIvDFOGDcmr9v9Lg&exp=1630303212&tvcode=lingua&uid=2935687&utoken=
 https://streaming.useetv.com/dass/133/lingua/manifest_wuseetv.mpd?enc=GqZcRpSgX3jjECtFtGdBxA&exp=1630299912&encp=bv7YlsvL2tcl7qnoZZSb8Q&expp=1630310412
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Sport" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Sport" tvg-name="Playlist gratis by suryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?5
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Sport" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Sport" tvg-name="donasi https://saweria.co/Suryafakta",donasi https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?6
 #EXTINF:-1 tvg-id="BathokGpc" tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" group-title="Sport" tvg-name="champion-tv-1",champion-tv-1
 https://gpc.my.id/sport/champion-tv-1.m3u8
@@ -552,9 +551,9 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="Dubai Racing" group-title="Sport",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Entertainmnet" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Entertainmnet" tvg-name="Playlist gratis by suryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?7
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Entertainmnet" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Entertainmnet" tvg-name="donasi https://saweria.co/Suryafakta",donasi https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="TVN" group-title="Entertainmnet",TVN
 https://gpc.my.id/vidio/tvn.m3u8
@@ -654,9 +653,9 @@ https://gpc.my.id/usee/eljohn.m3u8
 https://gpc.my.id/usee/arirang.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainmnet",The K-POP
 https://gpc.my.id/ytlive/the-kpop.m3u8
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="News" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="News" tvg-name="Playlist gratis by suryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?9
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="News" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="News" tvg-name="donasi https://saweria.co/Suryafakta",donasi https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?10
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Metro-TV" group-title="News",Metro-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -700,9 +699,9 @@ https://gpc.my.id/usee/trtworld.m3u8
 https://gpc.my.id/usee/france24.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="News",seatoday_USEE
 https://gpc.my.id/usee/seatoday.m3u8
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="Playlist gratis by suryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?11
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Movie" tvg-name="donasi https://saweria.co/Suryafakta",donasi https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?12
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Zee-Bioskop" group-title="Movie",Zee-Bioskop
 https://gpc.my.id/vidio/zee-bioskop.m3u8
@@ -812,9 +811,9 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lifestyle" tvg-name="Playlist gratis by BathokGPC",Playlist gratis by BathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lifestyle" tvg-name="Playlist gratis by suryaTV",Playlist gratis by suryaTV
 http://gpc.my.id/kopi.ts?11
-#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lifestyle" tvg-name="donasi https://saweria.co/bathokGPC",donasi https://saweria.co/bathokGPC
+#EXTINF:-1 tvg-logo="https://gpc.my.id/logo.png" tvg-id="BathokGpc" group-title="Lifestyle" tvg-name="donasi https://saweria.co/Suryafakta",donasi https://saweria.co/Suryafakta
 http://gpc.my.id/kopi.ts?12
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indishopping_small.png" tvg-id="BathokGpc" tvg-name="indishopping_USEE" group-title="Lifestyle",indishopping_USEE
 https://gpc.my.id/usee/indishopping.m3u8
