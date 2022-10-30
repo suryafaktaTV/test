@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="3600"
   
 #EXTINF:-1 group-title="" tvg-logo="https://cdn.ksa.my.id/ksa.png", 30-10-2022 19:00:01
 https://k.ksa.my.id/ksa.m3u8?1
