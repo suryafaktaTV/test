@@ -1,43 +1,4 @@
-<div class="xt_header" data-xtcontainer="header"><img class="logo" src="http://iptvefree.xtgem.com/files/nashyatvgo.png" alt="logo" /></div>
-    <div data-xtcontainer="navigation" class="xt_navigation"><span><a href="/"><span>Home</span></a></span><span><a href="/Custom+page"><span>Custom page</span></a></span></div><html><div style="display:none"><script type="text/javascript">
-var _qevents = _qevents || [];
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-_qevents.push({
-qacct:"p-0cfM8Oh7M9bVQ"
-});
-</script>
-<noscript>
-<img src="//https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07k" border="0" height="1" width="1" alt=""/>
-</noscript></div><div style="display:none"><script type="text/javascript">
-var _qevents = _qevents| [];
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-_qevents.push({
-qacct:"p-0cfM8Oh7M9bVQ"
-});
-</script>
-<noscript>
-<img src="//https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07k" border="0" height="1" width="1" alt=""/>
-</noscript></div>
-<head><link type="text/css" rel="stylesheet" href="http://iptvefree.xtgem.com/xtgem_template.css?v=1644801836"/>
-  <meta http-equiv='refresh' content='0; URL=https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqH'>
-</head>
-
-<noscript>
-#EXTM3U
+<!-- #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1567,4 +1528,4 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="Sports",Match!!?.
 https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1653407947/y7_QCOv_uH0DyESUTqRMyQ/live/407384_7/chunklist.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="Sports",Match.footbal.
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8 -->
