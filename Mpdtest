@@ -1,4 +1,4 @@
-<!-- #EXTM3U
+<!--#EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1528,4 +1528,4 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="Sports",Match!!?.
 https://live-2-333.zxz.su/LIVE/LIVE:407384/HLS/1653407947/y7_QCOv_uH0DyESUTqRMyQ/live/407384_7/chunklist.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/5tBFDKi.png" group-title="Sports",Match.footbal.
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8 -->
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8-->
